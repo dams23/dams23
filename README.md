@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/d_ams23?label=Follow)](https://twitter.com/intent/follow?screen_name=d_ams23)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-melo-salamanca-09b18a170/)](https://www.linkedin.com/in/daniel-melo-salamanca-09b18a170/)
+[![Linkedin: contactame](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-melo-salamanca-09b18a170/)](https://www.linkedin.com/in/daniel-melo-salamanca-09b18a170/)
 ```javascript
 const aboutMe = { 
   pronouns: "he" | "him",
