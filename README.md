@@ -12,12 +12,12 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
+         csharp: [".NetFramework",".NET Core"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "Oracle", "PostgreSQL"],
    },
    currentOccupation: ["web Developer for Universidad de la Amazonia"],
-   currentLearning: ["Vue","NextJs"],
+   currentLearning: ["Angular"],
    /* Learning Something new every day */
 };
 ```
