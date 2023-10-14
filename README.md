@@ -17,7 +17,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer", "Oracle", "PostgreSQL"],
    },
    currentOccupation: ["web Developer for Universidad de la Amazonia"],
-   currentLearning: ["Angular"],
+   currentLearning: [],
    /* Learning Something new every day */
 };
 ```
