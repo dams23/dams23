@@ -7,8 +7,8 @@ const aboutMe = {
   code: [Javascript, Typescript, HTML, CSS, CSharp, Java]
   technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap", "MDBootstrap"]
+         js: ["React", "Angular"],
+         css: ["Bootstrap", "TailwindCSS"]
       },
       backEnd: {
          js: ["Node", "Express"],
